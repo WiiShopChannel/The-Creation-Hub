@@ -28,7 +28,6 @@ In order to recieve the developer roles, you must first be a..developer. Require
 #### Expert Developer
 - A published library.
 - Recommendation from a known expert developer.
-* * *
 
 ## Content Creator Roles
 Content creator roles are simple. Requirements for these roles are listen below. If you meet any one of these, you may recieve the role.
@@ -41,15 +40,18 @@ Content creator roles are simple. Requirements for these roles are listen below.
 ### Famous Content Creator
 - 2500 Youtube subscribers.
 - 1500 Twitch followers.
-* * *
+
 # Staff Applications
+
 Staff applications can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSdDsJ0zKYpAfcdNUSi8Vg0MlvNsOd-ebXg_i6iFT8o0ZIMXUw/viewform?usp=sf_link). Good luck!
-* * *
+
 # Bots
+
 Our server is powered by our very own bot, The Creation Bot. To get a list of his commands, simply do `c$help`.
 ![Creation Bot](https://cdn.discordapp.com/attachments/449773561528451073/451178906918060052/2bjrpe.png)
-* * *
+
 # Rules
+
 ### 1. Spamming is Intolerable
 We have channels for this. #spam is open for all your processed canned meat needs.
 ### 2. Respect Staff
@@ -64,7 +66,7 @@ In the lobby, we like to keep it clean, neat, and organized. We have janitors wh
 Randomly pinging users for no reason is really annoying, and will result in you being muted. Random pings make Dappy Pappy Unhappy 👀
 ### 7. Keep NSFW Content in #nsfw
 We have an nsfw channel, though it is locked to members without a role. If you would like access, use c$role --nsfw, but staff are not responsible for underaged users having access, nor are we responsible for what is posted. Viewer discretion is advised, silence your cellphone and enjoy your movie.
-* * *
+
 # That's All!
 That's all the information you'll need, if you'd like to join the server, click the image below!
 <p align = "center">
