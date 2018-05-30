@@ -48,7 +48,6 @@ Staff applications can be found [here](https://docs.google.com/forms/d/e/1FAIpQL
 # Bots
 
 Our server is powered by our very own bot, The Creation Bot. To get a list of his commands, simply do `c$help`.
-![Creation Bot](https://cdn.discordapp.com/attachments/449773561528451073/451178906918060052/2bjrpe.png)
 
 # Rules
 
