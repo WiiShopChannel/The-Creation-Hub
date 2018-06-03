@@ -1,9 +1,4 @@
-# Creation Bot Lite
-Creation Bot Lite is a Discordia bot created by user Dappy. It is under the framework discordia-commands made by @Flamanis, linked [here](https://github.com/Flamanis/Discordia-Commands)
 
-It primarily runs **The Creation Hub**. Information for it's main support server is listed below.
-For more information on Creation Bot Lite, check out our [Wiki](https://github.com/WiiShopChannel/The-Creation-Hub/wiki)
-* * *
 # The Creation Hub
 <p align = "center">
 <a href="https://discord.gg/JmTrawD">
