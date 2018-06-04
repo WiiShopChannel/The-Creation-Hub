@@ -1682,7 +1682,7 @@
 			-webkit-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 			-ms-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 			transition: border-color .2s ease-in-out, color .2s ease-in-out;
-			color: #b4b7b5;
+			color: #C1C1C1;
 			background: transparent !important;
 			border: solid 4px #575d59;
 			border-color: rgba(87, 93, 89, 0.35);
@@ -1690,13 +1690,13 @@
 		}
 
 			#banner .button:hover {
-				color: #e4e7e5;
-				border-color: rgba(87, 93, 89, 0.75);
+				color: #FFFFFF;
+				border-color: rgba(193, 193, 193, 0.75);
 			}
 
 			#banner .button:active {
 				color: #fff;
-				border-color: #616763;
+				border-color: #FFFFFF;
 			}
 
 /* Footer */
