@@ -1513,6 +1513,7 @@
 		font-weight: 700;
 		text-transform: uppercase;
 		color: #FFFFFF;
+		
 	}
 
 	form input[type="text"],
@@ -1525,6 +1526,7 @@
 		width: 100%;
 		border-radius: 8px;
 		border: solid 2px #E7EAE8;
+		background-color: 464b51;
 	}
 
 		form input[type="text"]:focus,
@@ -1532,7 +1534,7 @@
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #a1cd9b;
+			border-color: #464b51;
 		}
 
 	form input[type="text"],
