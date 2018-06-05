@@ -1107,7 +1107,9 @@
 		text-decoration: none;
 		color: inherit;
 	}
-
+	.nowrap {
+ 	 white-space: nowrap ;
+	}
 	h2.major {
 		position: relative;
 		border-top: solid 5px #e7eae8;
