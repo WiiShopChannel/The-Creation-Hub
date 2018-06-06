@@ -1528,7 +1528,7 @@ h1 {
 	form textarea {
 		-webkit-appearance: none;
 		display: block;
-		width: 100%;
+		width: 20%;
 		border-radius: 8px;
 		border: solid 2px #E7EAE8;
 		background-color: 464b51;
