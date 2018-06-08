@@ -14,3 +14,4 @@ sn$suggest |  Suggest something for the bot. Sends a message to a private channe
 sn$ping    |Pong! | `sn$ping`
 sn$eval | Lua evaluator, owner only. | `sn$eval <code>`
 sn$help | Shows this menu. | `sn$help, sn$commands, sn$listcommands, sn$commandlist`
+e
