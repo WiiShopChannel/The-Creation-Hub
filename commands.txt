@@ -1,0 +1,14 @@
+[CONSOLE]: kill [p] -- Kills [p].
+[CONSOLE]: loopkill [p] -- Loop kill [p].
+[CONSOLE]: godmode [p] -- Give [p] godmode.
+[CONSOLE]: ff [p] -- Give [p] forcefield.
+[CONSOLE]: unff [p] -- Remove forcefield from [p].
+[CONSOLE]: ungod [p] -- Remove god from [p]
+[CONSOLE]: btools [p] -- Give [p] build tools.
+[CONSOLE]: invis [p] -- Make [p] invisible.
+[CONSOLE]: vis [p] -- Make [p] visible.
+[CONSOLE]: clr -- Clears Console.
+[CONSOLE]: exec -- Executes Lua.
+[CONSOLE]: eval -- Evaluates Lua.
+[CONSOLE]: reload [module] -- Reloads a module.
+[CONSOLE]: lua -- Runs Lua.exe.
